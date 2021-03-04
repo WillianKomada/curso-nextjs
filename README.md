@@ -11,7 +11,7 @@
 </p>
 
 <p>
-  Esta aplicação foi construida com o intuito de explorar algumas funcionalidades do Next.
+  Esta aplicação foi construída com o intuito de explorar algumas funcionalidades do Next.
 </p>
 
 ---
@@ -43,7 +43,7 @@ O projeto foi desnevolvido utilizando as seguintes tecnologias:
 $ git clone https://github.com/WillianKomada/curso-nextjs.git
 
 # Entrar no diretório do projeto
-$ cd moveit
+$ cd curso-nextjs
 
 # Instalar as dependências
 $ yarn install
